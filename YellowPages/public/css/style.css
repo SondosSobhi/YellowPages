@@ -1,0 +1,45 @@
+.categ-page{
+    background-color: #ffcd00;
+    overflow-x: hidden;
+}
+
+.categ-img{
+    background-image: url("/../img/1200x630bb.jpg");
+    background-repeat: no-repeat;
+    background-position: left center;
+    min-height: 600px;
+    min-width: 600px;
+    float: left;
+}
+
+.categ-form{
+    position: absolute;
+    z-index: 1;
+    top: 150px;
+    left: 45%;
+    color: black;
+    width: 30%;
+}
+
+option{
+    color: black;
+}
+
+.main-h1{
+    text-align: center;
+    margin: 40px;
+}
+
+.categ-page table{
+    margin: 0px 60px;
+    width: 90%;
+}
+
+.table-th{
+    text-align: center;
+}
+
+.add-btn{
+    float: right;
+    margin-right: 50px;
+}
